@@ -1,7 +1,5 @@
 # webserver
 webserver是一个小型单线程Web服务器程序，提供根目录下从服务器到浏览器的文件下载功能。
-<<<<<<< HEAD
-=======
 ## 快速上手
 1. 首先`git clone`下来这个项目
 ```
@@ -27,4 +25,3 @@ cmake --build ./cmake-build-debug --target webserver -j 14
 ```
 ./cmake-build-debug/webserver
 ```
->>>>>>> 6a172f9 (firstwebserver)
