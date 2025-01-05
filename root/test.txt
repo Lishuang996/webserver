@@ -1,0 +1,6 @@
+    char *from = strstr(buffer,"GET");
+    from += 4;
+    char *to = strstr(buffer,"HTTP/");
+    to--;
+    *to = '\0';
+    printf("所需要的文件路径为%s\n",from);

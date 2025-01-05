@@ -1,0 +1,18 @@
+# ninja log v6
+1	29	1736003420653092444	CMakeFiles/webserver.dir/connect.c.o	3039eb2c33bd7bdb
+0	13	1736041211127944942	build.ninja	990b4f1f9fa2352f
+0	28	1736007397557296970	CMakeFiles/webserver.dir/main.c.o	dd623a37817ffa8c
+22	43	1736008910464291515	webserver	e65d1999fd6e3313
+3	21	1735638783991898068	CMakeFiles/webserver.dir/client.c.o	674c4474a57c3bc6
+2	61	1735895331683925101	CMakeFiles/webserver.dir/server.c.o	17fb43efd44f28ed
+1	21	1736008910443291661	CMakeFiles/webserver.dir/analysisHTTP.c.o	22d07006b45d5761
+1	49	1736007323061149499	CMakeFiles/webserver.dir/configure.c.o	3ef32f55c51d3ef3
+1	44	1736042828338740004	CMakeFiles/webserver.dir/configure.c.o	3ef32f55c51d3ef3
+1	44	1736042828338740004	CMakeFiles/webserver.dir/analysisHTTP.c.o	22d07006b45d5761
+44	67	1736042828381737272	webserver	e65d1999fd6e3313
+1	25	1736043051427377181	CMakeFiles/webserver.dir/configure.c.o	3ef32f55c51d3ef3
+25	44	1736043051451377316	webserver	e65d1999fd6e3313
+1	39	1736043161341014220	CMakeFiles/webserver.dir/main.c.o	dd623a37817ffa8c
+39	66	1736043161379015093	webserver	e65d1999fd6e3313
+1	28	1736043174726332543	CMakeFiles/webserver.dir/main.c.o	dd623a37817ffa8c
+28	47	1736043174753333207	webserver	e65d1999fd6e3313
